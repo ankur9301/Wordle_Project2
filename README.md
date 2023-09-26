@@ -32,6 +32,7 @@ The following **additional** features are implemented:
 
 https://www.youtube.com/shorts/W2zSPTifovU
 
+https://submissions.us-east-1.linodeobjects.com/ios101/fwM8dosU.gif
 
 
 https://github.com/ankur9301/Wordle_Project2/assets/114321826/8c78a4b5-b93a-4c99-bca7-83e5eecdbca9
